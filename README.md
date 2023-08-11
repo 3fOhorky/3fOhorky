@@ -1,7 +1,5 @@
 # Hello! 👋 I'm Stjepan Hrvoje Horvat
 
-![YOUR_PROFILE_PICTURE_HERE](profilepic.jpeg)
-
 I'm a seasoned full-stack developer specializing in the .NET ecosystem with a recent passion for blockchain development. Over the years, I've played key roles in developing closed-source, mid-size, enterprise-grade projects, with two of those rooted in a blockchain. Post my adventures with blockchain, I've immersed myself in learning more about it, gaining valuable experiences from bootcamps and hackathons.
 
 ## 🔍 About Me
@@ -54,7 +52,3 @@ Music resonates with my soul. Dive into my musical journey on [SoundCloud](https
 ## 📬 Get in Touch
 
 - LinkedIn: [Stjepan Hrvoje Horvat](https://www.linkedin.com/in/stjepan-hrvoje-horvat/)
-
----
-
-⭐️ From [Stjepan Hrvoje Horvat](https://github.com/YOUR_GITHUB_USERNAME)
