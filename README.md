@@ -12,23 +12,23 @@ I'm a seasoned full-stack developer specializing in the .NET ecosystem with a re
 ## 🚀 Key Projects
 
 - **Liquibet**: A dynamic SFT with gambling mechanics, distinguished winner of Chainlink Hackathon. 
-    - **Stack**: React, Typescript, Solidity, Hardhat, Ethers, Chainlink 
+    - 🔧 React, Typescript, Solidity, Hardhat, Ethers, Chainlink 
     [View Project](https://github.com/3fOhorky/liquibet)
 - **Encode Solidity Bootcamp**: My reference repository containing solutions to Solidity exercises from the Encode Bootcamp, aiding me in my role as a Teaching Assistant. 
-    - **Stack**: React, Typescript, Solidity, Hardhat, Ethers
+    - 🔨 React, Typescript, Solidity, Hardhat, Ethers
     [View Project](https://github.com/3fOhorky/SolidityBootcampExcercises)
 - **eBill of Exchange**: Pioneering blockchain project in my firm built on Hyperledger Fabric and Oracle Blockchain Cloud.
-    - **Stack**: Hyperledger Fabric, Oracle Blockchain Cloud, .NET MVC, Go (Golang for smart contracts).
+    - 🧰 Hyperledger Fabric, Oracle Blockchain Cloud, .NET MVC, Go (Golang for smart contracts).
 - **CCPTEMS**: An upcoming crime proceedings system for Armenian authorities.
-    - **Stack**: .NET 6, Blazor WASM, MS SQL Server.
+    - ⚙️ .NET 6, Blazor WASM, MS SQL Server.
 - **Digital Evidence System**: Designed to store & manage evidence, including an Ethereum-based PoC for data verification.
-    - **Stack**: .NET MVC, JQuery, MS SQL Server, Ethereum.
+    - 🔩 .NET MVC, JQuery, MS SQL Server, Ethereum.
 - **ADI**: Digital exams system for exam administration and execution.
-    - **Stack**: .NET Razor Pages, JQuery, PostgreSQL.
+    - ⚒️ .NET Razor Pages, JQuery, PostgreSQL.
 - **ePorezna**: A comprehensive Croatian tax administration portal.
-    - **Stack**: .NET WebForms, JQuery, DB2, Stored Procedures.
+    - ⛏️ .NET WebForms, JQuery, DB2, Stored Procedures.
 - **Enter Croatia & ePass**: Rapid-response projects developed during COVID for tracking and managing movement across counties.
-    - **Technologies**: .NET Razor Pages, MS SQL Server.
+    - 🏗️ .NET Razor Pages, MS SQL Server.
 
 ... and more projects not listed here.
 
