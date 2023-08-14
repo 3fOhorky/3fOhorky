@@ -1,10 +1,10 @@
 # Hello! 👋 I'm Stjepan Hrvoje Horvat
 
-I'm a seasoned full-stack developer specializing in the .NET ecosystem with a recent passion for blockchain development. Over the years, I've played key roles in developing closed-source, mid-size, enterprise-grade projects, with two of those rooted in a blockchain. Post my adventures with blockchain, I've immersed myself in learning more about it, gaining valuable experiences from bootcamps and hackathons.
+I'm a seasoned full-stack developer specializing in the .NET ecosystem with a recent passion for blockchain development. Over the years, I've played key roles in developing closed-source, mid-size, enterprise-grade projects, with two of those rooted in a blockchain. Post my adventures with blockchain, I've immersed myself in learning more about it and gaining valuable experiences from bootcamps and hackathons.
 
 ## 🔍 About Me
 
-- 🌐 Full-Stack Developer with 6+ years in .NET ecosystem, seasoned in all things .NET - EF Core, Blazor and more.
+- 🌐 Full-Stack Developer with 6+ years in the .NET ecosystem, seasoned in all things .NET - C#, EF Core, Blazor, and more.
 - 🛠️ Spearheaded and developed key blockchain projects at my firm, transitioning my focus deeper into the blockchain sphere.
 - 🎓 Excelled in Encode Bootcamps, and currently serving as a Teaching Assistant for Encode Solidity Bootcamp.
 - 🏆 Winner of Chainlink x Encode Hackathon with my team.
