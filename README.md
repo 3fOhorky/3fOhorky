@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Stjepan Hrvoje Horvat
 
-I'm a seasoned full-stack developer specializing in the .NET ecosystem with a recent passion for blockchain development. Over the years, I've played key roles in developing closed-source, mid-size, enterprise-grade projects, with two of those rooted in a blockchain. Post my adventures with blockchain, I've immersed myself in learning more about it and gaining valuable experiences from bootcamps and hackathons.
+I'm a seasoned full-stack developer specializing in the .NET ecosystem with a recent passion for blockchain development. Over the years, I've played key roles in developing closed-source, mid-size, enterprise-grade projects, with two of those rooted in a blockchain. Recently, I've fast-tracked my blockchain aptitude, gaining valuable experience from bootcamps and hackathons.
 
 ## 🔍 About Me
 
@@ -14,21 +14,21 @@ I'm a seasoned full-stack developer specializing in the .NET ecosystem with a re
 - **Liquibet**: A dynamic SFT with gambling mechanics, distinguished winner of Chainlink Hackathon. 
     - 🔧 React, Typescript, Solidity, Hardhat, Ethers, Chainlink 
     [View Project](https://github.com/3fOhorky/liquibet)
-- **Encode Solidity Bootcamp**: My reference repository containing solutions to Solidity exercises from the Encode Bootcamp, aiding me in my role as a Teaching Assistant. 
+- **Encode Solidity Bootcamp**: My reference repository for the Encode Solidity Bootcamp, aiding me in my role as a Teaching Assistant. 
     - 🔨 React, Typescript, Solidity, Hardhat, Ethers
     [View Project](https://github.com/3fOhorky/SolidityBootcampExcercises)
 - **eBill of Exchange**: Pioneering blockchain project in my firm built on Hyperledger Fabric and Oracle Blockchain Cloud.
     - 🧰 Hyperledger Fabric, Oracle Blockchain Cloud, .NET MVC, Go (Golang for smart contracts).
 - **CCPTEMS**: An upcoming crime proceedings system for Armenian authorities.
-    - ⚙️ .NET 6, Blazor WASM, MS SQL Server.
+    - ⚙️ .NET 6, Blazor WASM, EF Core, MS SQL Server.
 - **Digital Evidence System**: Designed to store & manage evidence, including an Ethereum-based PoC for data verification.
-    - 🔩 .NET MVC, JQuery, MS SQL Server, Ethereum.
+    - 🔩 .NET MVC, JQuery, EF, MS SQL Server, Ethereum.
 - **ADI**: Digital exams system for exam administration and execution.
-    - ⚒️ .NET Razor Pages, JQuery, PostgreSQL.
+    - ⚒️ .NET Razor Pages, JQuery, EF, PostgreSQL.
 - **ePorezna**: A comprehensive Croatian tax administration portal.
-    - ⛏️ .NET WebForms, JQuery, DB2, Stored Procedures.
+    - ⛏️ .NET WebForms, JQuery, IBM DB2, Stored Procedures.
 - **Enter Croatia & ePass**: Rapid-response projects developed during COVID for tracking and managing movement across counties.
-    - 🏗️ .NET Razor Pages, MS SQL Server.
+    - 🏗️ .NET Razor Pages, EF, MS SQL Server.
 
 ... and more projects not listed here.
 
@@ -43,7 +43,7 @@ I'm a seasoned full-stack developer specializing in the .NET ecosystem with a re
 ## 📖 Books & Learning
 
 - **Blockchain**: Mastering Bitcoin, Mastering Ethereum, Hands-On Blockchain with Hyperledger, The Infinite Machine, The Blocksize War, Real-World Cryptography, and more.
-- **General Coding & Architecture**: Clean Code, Clean Architecture, Fundamentals of Software Architecture, Algorithms to Live By, Domain-Driven Design, and more.
+- **General Coding & Architecture**: Clean Code, Clean Architecture, Fundamentals of Software Architecture, Domain-Driven Design, Algorithms to Live By, and more.
 
 ## 🎸 Beyond Code
 
