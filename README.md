@@ -4,7 +4,7 @@ I'm a seasoned full-stack developer specializing in the .NET ecosystem with a re
 
 ## 🔍 About Me
 
-- 🌐 Full-Stack Developer with 6+ years in the .NET ecosystem, seasoned in all things .NET - C#, EF Core, Blazor, and more.
+- 🌐 Full-Stack Developer with 7+ years in the .NET ecosystem, seasoned in all things .NET - C#, EF Core, Blazor, and more.
 - 🛠️ Spearheaded and developed key blockchain projects at my firm, transitioning my focus deeper into the blockchain sphere.
 - 🎓 Excelled in Encode Bootcamps, and currently serving as a Teaching Assistant for Encode Solidity Bootcamp.
 - 🏆 Winner of Chainlink x Encode Hackathon with my team.
