@@ -35,7 +35,7 @@ I'm a seasoned full-stack developer specializing in the .NET ecosystem with a re
 ## 💼 Tech Stack
 
 - **Backend**: .NET, C#, EF Core
-- **Frontend**: JavaScript, TypeScript, React, JQuery, Blazor, HTML5, CSS3
+- **Frontend**: Blazor, JavaScript, TypeScript, React, JQuery, HTML5, CSS3
 - **Blockchain**: Hyperledger Fabric, Ethereum, Solidity, Hardhat, Ethers
 - **Database**: Database Design, SQL, MS SQL Server, DB2, Oracle...
 - **General principles**: Domain Driven Design, Test Automation
