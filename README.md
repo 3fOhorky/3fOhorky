@@ -1,6 +1,6 @@
-# Hello! 👋 I'm Stjepan Hrvoje Horvat
+# Hello! 👋 I'm Stjepan Hrvoje Horvat...
 
-I'm a seasoned full-stack developer specializing in the .NET ecosystem with a recent passion for blockchain development. Over the years, I've played key roles in developing closed-source, mid-size, enterprise-grade projects, with two of those rooted in a blockchain. Recently, I've fast-tracked my blockchain aptitude, gaining valuable experience from bootcamps and hackathons.
+...a seasoned full-stack developer specializing in the .NET ecosystem with a recent passion for blockchain development. Over the years, I've played key roles in developing closed-source, mid-size, enterprise-grade projects, with two of those rooted in a blockchain. Recently, I've fast-tracked my blockchain aptitude, gaining valuable experience from bootcamps and hackathons.
 
 ## 🔍 About Me
 
